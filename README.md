@@ -203,7 +203,7 @@ The main goal of the project was to experiment with animations and create a more
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
-<img src="./projeto-login.png" width="100%" alt="Responsive Login">
+<img src="./projeto-login.jpeg" width="100%" alt="Responsive Login">
 
 </a>
 
