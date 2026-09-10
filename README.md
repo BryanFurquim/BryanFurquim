@@ -235,7 +235,7 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
-<img src="./projeto-android.png" width="100%" alt="Android Website">
+<img src="./projeto-android.jpeg" width="100%" alt="Android Website">
 
 </a>
 
