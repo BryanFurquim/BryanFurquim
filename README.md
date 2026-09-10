@@ -99,7 +99,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🎨 Design & Image Editing
 
 <p>
-  <img src="./gimp.png" width="48" height="48" alt="GIMP"" />
+  <img src="./gimp.png" width="48" height="48" alt="GIMP" />
 </p>
 
 `GIMP`
@@ -120,31 +120,162 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 # 🚀 Featured Projects
 
-I'm currently building and publishing projects as part of my development journey.
+I'm continuously building and publishing projects as part of my development journey.
 
----
+<div align="center">
 
-## 🔐 Responsive Login
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://bryanfurquim.github.io/financepro/">
+
+<img src="./image.png" width="100%" alt="FinancePro">
+
+</a>
+
+### 💰 FinancePro
+
+A financial control and organization website created to experiment with **JavaScript and AI-assisted development**.
+
+The project includes financial organization features and interactive elements designed to make personal finance management easier.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+<br/>
+
+<a href="https://github.com/BryanFurquim/financepro">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;
+
+<a href="https://bryanfurquim.github.io/financepro/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://bryanfurquim.github.io/projeto-fanta/">
+
+<img src="./assets/projeto-fanta.png" width="100%" alt="Fanta Project">
+
+</a>
+
+### 🥤 Fanta Project
+
+A front-end project created to practice **JavaScript animations, interactions and visual effects**.
+
+The main goal of the project was to experiment with animations and create a more dynamic user experience.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+<br/>
+
+<a href="https://github.com/BryanFurquim/projeto-fanta">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;
+
+<a href="https://bryanfurquim.github.io/projeto-fanta/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://bryanfurquim.github.io/projeto-login/">
+
+<img src="./assets/projeto-login.png" width="100%" alt="Responsive Login">
+
+</a>
+
+### 🔐 Responsive Login
 
 A responsive login interface created to practice **HTML5, CSS3 and responsive layouts** across different screen sizes.
 
 **Tech:** `HTML5` `CSS3`
 
-🌐 **[Live Demo](https://bryanfurquim.github.io/projeto-login/)**
+<br/>
 
----
+<a href="https://github.com/BryanFurquim/projeto-login">
 
-## 🤖 Android Website
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;
+
+<a href="https://bryanfurquim.github.io/projeto-login/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://bryanfurquim.github.io/projeto-android/">
+
+<img src="./assets/projeto-android.png" width="100%" alt="Android Website">
+
+</a>
+
+### 🤖 Android Website
 
 A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing on structure, content organization, images, links and visual styling.
 
 **Tech:** `HTML5` `CSS3`
 
-🌐 **[Live Demo](https://bryanfurquim.github.io/projeto-android/)**
+<br/>
 
----
+<a href="https://github.com/BryanFurquim/projeto-android">
 
-## 📱 Social Media — Iframe Practice
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;
+
+<a href="https://bryanfurquim.github.io/projeto-android/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
+
+<img src="./assets/redes-sociais.png" width="100%" alt="Social Media Project">
+
+</a>
+
+### 📱 Social Media — Iframe Practice
 
 An educational project created to practice **HTML5 iframes, navigation, target links and interaction between multiple HTML documents**.
 
@@ -152,7 +283,47 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 
 **Tech:** `HTML5` `CSS3`
 
-🌐 **[Live Demo](https://bryanfurquim.github.io/projeto-redes-sociais/)**
+<br/>
+
+<a href="https://github.com/BryanFurquim/projeto-redes-sociais">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;
+
+<a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚛️ ReactJS
+
+A project created to practice modern front-end development using **React, TypeScript and Vite**.
+
+**Tech:** `React` `TypeScript` `Vite`
+
+<br/>
+
+<a href="https://github.com/BryanFurquim/reactjs">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -163,7 +334,7 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 | Area | Focus |
 | :--- | :--- |
 | 🌐 **Web Development** | HTML5 · CSS3 · JavaScript |
-| ⚛️ **Front-End** | JavaScript · React |
+| ⚛️ **Front-End** | JavaScript · React · TypeScript |
 | ⚙️ **Back-End** | Node.js · JavaScript · PHP · Python |
 | 🗄️ **Database** | MySQL · Supabase |
 | 🐳 **Infrastructure** | Docker |
