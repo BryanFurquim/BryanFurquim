@@ -89,7 +89,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🗄️ Database Tools
 
 <p>
-  <img src="./assets/beekeeper.png" width="48" height="48" alt="Beekeeper Studio" />
+  <img src="./beekeeper.png" width="48" height="48" alt="Beekeeper Studio" />
 </p>
 
 `Beekeeper Studio`
@@ -99,7 +99,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🎨 Design & Image Editing
 
 <p>
-  <img src="./assets/gimp.png" width="48" height="48" alt="GIMP"" />
+  <img src="./gimp.png" width="48" height="48" alt="GIMP"" />
 </p>
 
 `GIMP`
