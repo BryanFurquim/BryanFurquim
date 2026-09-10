@@ -165,7 +165,7 @@ The project includes financial organization features and interactive elements de
 
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
-<img src="./assets/projeto-fanta.png" width="100%" alt="Fanta Project">
+<img src="./projeto-fanta.png" width="100%" alt="Fanta Project">
 
 </a>
 
@@ -203,7 +203,7 @@ The main goal of the project was to experiment with animations and create a more
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
-<img src="./assets/projeto-login.png" width="100%" alt="Responsive Login">
+<img src="./projeto-login.png" width="100%" alt="Responsive Login">
 
 </a>
 
@@ -235,7 +235,7 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
-<img src="./assets/projeto-android.png" width="100%" alt="Android Website">
+<img src="./projeto-android.png" width="100%" alt="Android Website">
 
 </a>
 
@@ -271,7 +271,7 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 
 <a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
 
-<img src="./assets/redes-sociais.png" width="100%" alt="Social Media Project">
+<img src="./redes-sociais.png" width="100%" alt="Social Media Project">
 
 </a>
 
@@ -302,6 +302,13 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 </td>
 
 <td width="50%" align="center">
+
+<a href="https://bryanfurquim.github.io/reactjs/">
+
+<img src="./reactjs.png" width="100%" alt="Social Media Project">
+
+</a>
+
 
 ### ⚛️ ReactJS
 
