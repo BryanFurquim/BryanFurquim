@@ -165,7 +165,7 @@ The project includes financial organization features and interactive elements de
 
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
-<img src="./projeto-fanta.png" width="100%" alt="Fanta Project">
+<img src="./projeto-fanta.jpg" width="100%" alt="Fanta Project">
 
 </a>
 
