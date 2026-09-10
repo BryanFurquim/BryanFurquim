@@ -305,12 +305,12 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 
 <a href="https://bryanfurquim.github.io/reactjs/">
 
-<img src="./reactjs.png" width="100%" alt="Social Media Project">
+<img src="./reactjs.jpg" width="100%" alt="Social Media Project">
 
 </a>
 
 
-### ⚛️ ReactJS
+### ⚛️ like counter with ReactJS
 
 A project created to practice modern front-end development using **React, TypeScript and Vite**.
 
