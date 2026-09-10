@@ -271,8 +271,7 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 
 <a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
 
-<img src="./redes-sociais.jp
-g" width="100%" alt="Social Media Project">
+<img src="./redes-sociais.jpg" width="100%" alt="Social Media Project">
 
 </a>
 
