@@ -8,11 +8,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryanFurquim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BryanFurquim)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanfq19/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/bryanfq19/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanfurquimm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bryanfurquimm@gmail.com)
 
 </div>
 
@@ -26,7 +26,7 @@ I enjoy understanding how technologies work together, experimenting with new con
 
 My current journey is focused on **programming fundamentals, web development, databases, development tools and infrastructure**.
 
-I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, React, PHP, Node.js, MySQL, Supabase, Python and Docker**, while continuing to strengthen my programming fundamentals.
+I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, PHP, MySQL, Supabase and Docker**, while continuing to strengthen my programming fundamentals.
 
 My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, useful and maintainable software solutions.
 
@@ -39,20 +39,20 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🎨 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript` · `React`
+`HTML5` · `CSS3` · `JavaScript`
 
 ---
 
 ## ⚙️ Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php" />
 </p>
 
-`Node.js` · `JavaScript` · `PHP` · `Python`
+`JavaScript` · `TypeScript` · `PHP`
 
 ---
 
@@ -151,7 +151,7 @@ The project includes financial organization features and interactive elements de
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/financepro/">
 
@@ -185,7 +185,7 @@ The main goal of the project was to experiment with animations and create a more
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
@@ -221,7 +221,7 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
@@ -253,7 +253,7 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
@@ -291,7 +291,7 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
 
@@ -308,7 +308,6 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 <img src="./reactjs.jpg" width="100%" alt="Social Media Project">
 
 </a>
-
 
 ### ⚛️ like counter with ReactJS
 
@@ -338,17 +337,17 @@ A project created to practice modern front-end development using **React, TypeSc
 
 <div align="center">
 
-| Area | Focus |
-| :--- | :--- |
-| 🌐 **Web Development** | HTML5 · CSS3 · JavaScript |
-| ⚛️ **Front-End** | JavaScript · React · TypeScript |
-| ⚙️ **Back-End** | Node.js · JavaScript · PHP · Python |
-| 🗄️ **Database** | MySQL · Supabase |
-| 🐳 **Infrastructure** | Docker |
-| 🔧 **Version Control** | Git · GitHub |
-| 🗄️ **Database Tools** | Beekeeper Studio |
-| 🎨 **Design** | GIMP |
-| 💻 **Operating Systems** | Windows · Linux |
+| Area                     | Focus                         |
+| :----------------------- | :---------------------------- |
+| 🌐 **Web Development**   | HTML5 · CSS3 · JavaScript     |
+| ⚛️ **Front-End**         | JavaScript · TypeScript       |
+| ⚙️ **Back-End**          | JavaScript · TypeScript · PHP |
+| 🗄️ **Database**         | MySQL · Supabase              |
+| 🐳 **Infrastructure**    | Docker                        |
+| 🔧 **Version Control**   | Git · GitHub                  |
+| 🗄️ **Database Tools**   | Beekeeper Studio              |
+| 🎨 **Design**            | GIMP                          |
+| 💻 **Operating Systems** | Windows · Linux               |
 
 </div>
 
@@ -372,3 +371,4 @@ Understand
 Improve
   ↓
 Repeat
+```
