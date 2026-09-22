@@ -8,11 +8,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BryanFurquim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryanFurquim)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/bryanfq19/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanfq19/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bryanfurquimm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanfurquimm@gmail.com)
 
 </div>
 
@@ -24,9 +24,9 @@ I'm a **Developer in Progress** focused on continuously improving my skills in *
 
 I enjoy understanding how technologies work together, experimenting with new concepts and turning what I learn into practical projects.
 
-My current journey is focused on **programming fundamentals, web development, databases, development tools and infrastructure**.
+My current journey is focused on **programming fundamentals, web development, databases, development tools, infrastructure and AI-assisted development workflows**.
 
-I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, PHP, MySQL, Supabase and Docker**, while continuing to strengthen my programming fundamentals.
+I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, PHP, MySQL, Supabase and Docker**, while also exploring **Vibe Coding** with tools such as **V0, Codex and Higgsfield**.
 
 My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, useful and maintainable software solutions.
 
@@ -106,6 +106,20 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 ---
 
+## 🤖 Vibe Coding & AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge&logoColor=white" />
+</p>
+
+`V0` · `Codex` · `Higgsfield`
+
+> 🧠 Exploring **Vibe Coding** to develop **simple, functional and modern websites with the help of AI**, turning ideas into working interfaces and practical projects.
+
+---
+
 ## 💻 Operating Systems
 
 <p>
@@ -126,6 +140,34 @@ I'm continuously building and publishing projects as part of my development jour
 
 <table>
 <tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
+
+<img src="./sistema-controle-gastos.png" width="100%" alt="Sistema de Controle de Gastos">
+
+</a>
+
+### 💳 Sistema de Controle de Gastos
+
+A web-based system developed as an initial version for **controlling expenses made with a corporate credit card**.
+
+The project allows users to register and organize expenses using information such as **description, category, amount and date**, while displaying the card's monthly limit, total expenses and available balance.
+
+The project is also part of my studies in **PHP, TypeScript, MySQL and Docker**.
+
+**Tech:** `HTML5` `CSS3` `TypeScript` `PHP` `MySQL` `Docker`
+
+<br/>
+
+<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</td>
 
 <td width="50%" align="center">
 
@@ -151,7 +193,7 @@ The project includes financial organization features and interactive elements de
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://bryanfurquim.github.io/financepro/">
 
@@ -160,6 +202,10 @@ The project includes financial organization features and interactive elements de
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" align="center">
 
@@ -185,7 +231,7 @@ The main goal of the project was to experiment with animations and create a more
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
@@ -194,10 +240,6 @@ The main goal of the project was to experiment with animations and create a more
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" align="center">
 
@@ -221,7 +263,7 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
@@ -230,6 +272,10 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" align="center">
 
@@ -253,7 +299,7 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
@@ -262,10 +308,6 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" align="center">
 
@@ -291,7 +333,7 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
 
@@ -301,15 +343,19 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" align="center">
 
 <a href="https://bryanfurquim.github.io/reactjs/">
 
-<img src="./reactjs.jpg" width="100%" alt="Social Media Project">
+<img src="./reactjs.jpg" width="100%" alt="ReactJS Like Counter">
 
 </a>
 
-### ⚛️ like counter with ReactJS
+### ⚛️ Like Counter with ReactJS
 
 A project created to practice modern front-end development using **React, TypeScript and Vite**.
 
@@ -337,21 +383,22 @@ A project created to practice modern front-end development using **React, TypeSc
 
 <div align="center">
 
-| Area                     | Focus                         |
-| :----------------------- | :---------------------------- |
-| 🌐 **Web Development**   | HTML5 · CSS3 · JavaScript     |
-| ⚛️ **Front-End**         | JavaScript · TypeScript       |
-| ⚙️ **Back-End**          | JavaScript · TypeScript · PHP |
-| 🗄️ **Database**         | MySQL · Supabase              |
-| 🐳 **Infrastructure**    | Docker                        |
-| 🔧 **Version Control**   | Git · GitHub                  |
-| 🗄️ **Database Tools**   | Beekeeper Studio              |
-| 🎨 **Design**            | GIMP                          |
-| 💻 **Operating Systems** | Windows · Linux               |
+| Area | Focus |
+| :--- | :--- |
+| 🌐 **Web Development** | HTML5 · CSS3 · JavaScript |
+| ⚛️ **Front-End** | JavaScript · TypeScript |
+| ⚙️ **Back-End** | JavaScript · TypeScript · PHP |
+| 🗄️ **Database** | MySQL · Supabase |
+| 🐳 **Infrastructure** | Docker |
+| 🔧 **Version Control** | Git · GitHub |
+| 🗄️ **Database Tools** | Beekeeper Studio |
+| 🎨 **Design** | GIMP |
+| 🤖 **Vibe Coding** | Developing simple and functional websites with AI |
+| 💻 **Operating Systems** | Windows · Linux |
 
 </div>
 
-I'm continuously expanding my knowledge through **study, experimentation and practical projects**.
+I'm continuously expanding my knowledge through **study, experimentation, Vibe Coding and practical projects**.
 
 ---
 
@@ -371,4 +418,3 @@ Understand
 Improve
   ↓
 Repeat
-```
