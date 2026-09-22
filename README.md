@@ -145,7 +145,7 @@ I'm continuously building and publishing projects as part of my development jour
 
 <a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
 
-<img src="./sistema-controle-gastos.png" width="100%" alt="Sistema de Controle de Gastos">
+<img src="./a2b18466-b681-4bef-881d-068c57a08990.png" width="100%" alt="Sistema de Controle de Gastos">
 
 </a>
 
