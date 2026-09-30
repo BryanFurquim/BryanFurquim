@@ -4,15 +4,15 @@
 
 ### 💻 Developer in Progress · Full-Stack Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66E3C4&center=true&vCenter=true&width=650&lines=Developer+in+Progress;Learning+Web+Development;Building+Real+Projects;Exploring+Modern+Technologies;Working+Towards+Full-Stack+Development" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66E3C4&center=true&vCenter=true&width=650&lines=Developer+in+Progress;Learning+Web+Development;Building+Real+Projects;Exploring+Modern+Technologies;Learning+React+%26+Next.js;Working+Towards+Full-Stack+Development" alt="Typing animation" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryanFurquim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/BryanFurquim)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanfq19/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/bryanfq19/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanfurquimm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bryanfurquimm@gmail.com)
 
 </div>
 
@@ -20,15 +20,19 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Developer in Progress** focused on continuously improving my skills in **Web Development**.
+I'm a **Developer in Progress** focused on continuously improving my skills in **Web Development and Full-Stack Development**.
 
 I enjoy understanding how technologies work together, experimenting with new concepts and turning what I learn into practical projects.
 
-My current journey is focused on **programming fundamentals, web development, databases, development tools, infrastructure and AI-assisted development workflows**.
+My current journey is focused on **programming fundamentals, modern web development, databases, APIs, development tools, infrastructure and AI-assisted development workflows**.
 
-I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, PHP, MySQL, Supabase and Docker**, while also exploring **Vibe Coding** with tools such as **V0, Codex and Higgsfield**.
+I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, MySQL, Supabase and Docker**, while also exploring modern development tools and **Vibe Coding** with tools such as **V0, Codex and Higgsfield**.
 
-My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, useful and maintainable software solutions.
+I've been building projects ranging from responsive websites and interactive front-end experiences to **financial systems, business applications, APIs and real-world software solutions**.
+
+Some of my projects explore areas such as **financial management, Open Finance, digital ordering systems and business-oriented applications**.
+
+My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, scalable and maintainable software solutions.
 
 > 🚀 **Learn deeply. Build consistently. Keep improving.**
 
@@ -39,10 +43,10 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🎨 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript`
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js`
 
 ---
 
@@ -139,6 +143,7 @@ I'm continuously building and publishing projects as part of my development jour
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -193,7 +198,7 @@ The project includes financial organization features and interactive elements de
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/financepro/">
 
@@ -206,6 +211,44 @@ The project includes financial organization features and interactive elements de
 </tr>
 
 <tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
+
+<img src="./pastelaria.png" width="100%" alt="Pastelaria Ordering System">
+
+</a>
+
+### 🥟 Pastelaria Ordering System with admin interface
+
+A digital ordering system designed for a **real-world food business**.
+
+The system provides a **mobile-friendly digital menu accessed through a QR code**, allowing customers to browse products and place orders directly from their smartphones.
+
+Orders are designed to be received through a separate **management interface**, creating a practical workflow between customers and the business.
+
+The project combines **modern web development, database integration, deployment and real-world business requirements**.
+
+**Tech:** `React` `JavaScript` `Supabase` `Vercel`
+
+<br/>
+
+<a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+ 
+
+<a href="https://sistema-de-pastelaria.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=vercel&logoColor=black">
+
+</a>
+
+</td>
 
 <td width="50%" align="center">
 
@@ -231,7 +274,7 @@ The main goal of the project was to experiment with animations and create a more
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
@@ -240,6 +283,10 @@ The main goal of the project was to experiment with animations and create a more
 </a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" align="center">
 
@@ -253,6 +300,8 @@ The main goal of the project was to experiment with animations and create a more
 
 A responsive login interface created to practice **HTML5, CSS3 and responsive layouts** across different screen sizes.
 
+The project focuses on responsive design, Flexbox and adapting interfaces to different devices.
+
 **Tech:** `HTML5` `CSS3`
 
 <br/>
@@ -263,7 +312,7 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 </a>
 
-&nbsp;
+ 
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
@@ -272,10 +321,6 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" align="center">
 
@@ -291,130 +336,4 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 
 **Tech:** `HTML5` `CSS3`
 
-<br/>
-
-<a href="https://github.com/BryanFurquim/projeto-android">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-&nbsp;
-
-<a href="https://bryanfurquim.github.io/projeto-android/">
-
-<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
-
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
-
-<img src="./redes-sociais.jpg" width="100%" alt="Social Media Project">
-
-</a>
-
-### 📱 Social Media — Iframe Practice
-
-An educational project created to practice **HTML5 iframes, navigation, target links and interaction between multiple HTML documents**.
-
-This project was developed as part of my studies based on **Curso em Vídeo by Gustavo Guanabara**.
-
-**Tech:** `HTML5` `CSS3`
-
-<br/>
-
-<a href="https://github.com/BryanFurquim/projeto-redes-sociais">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-&nbsp;
-
-<a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
-
-<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<a href="https://bryanfurquim.github.io/reactjs/">
-
-<img src="./reactjs.jpg" width="100%" alt="ReactJS Like Counter">
-
-</a>
-
-### ⚛️ Like Counter with ReactJS
-
-A project created to practice modern front-end development using **React, TypeScript and Vite**.
-
-**Tech:** `React` `TypeScript` `Vite`
-
-<br/>
-
-<a href="https://github.com/BryanFurquim/reactjs">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🎯 Current Learning Focus
-
-<div align="center">
-
-| Area | Focus |
-| :--- | :--- |
-| 🌐 **Web Development** | HTML5 · CSS3 · JavaScript |
-| ⚛️ **Front-End** | JavaScript · TypeScript |
-| ⚙️ **Back-End** | JavaScript · TypeScript · PHP |
-| 🗄️ **Database** | MySQL · Supabase |
-| 🐳 **Infrastructure** | Docker |
-| 🔧 **Version Control** | Git · GitHub |
-| 🗄️ **Database Tools** | Beekeeper Studio |
-| 🎨 **Design** | GIMP |
-| 🤖 **Vibe Coding** | Developing simple and functional websites with AI |
-| 💻 **Operating Systems** | Windows · Linux |
-
-</div>
-
-I'm continuously expanding my knowledge through **study, experimentation, Vibe Coding and practical projects**.
-
----
-
-# 📈 My Development Philosophy
-
-```text
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Make mistakes
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Repeat
+<br/
