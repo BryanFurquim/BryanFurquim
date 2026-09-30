@@ -4,7 +4,7 @@
 
 ### 💻 Developer in Progress · Full-Stack Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66E3C4&center=true&vCenter=true&width=650&lines=Developer+in+Progress;Learning+Web+Development;Building+Real+Projects;Exploring+Modern+Technologies;Learning+React+%26+Next.js;Working+Towards+Full-Stack+Development" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=66E3C4&center=true&vCenter=true&width=650&lines=Developer+in+Progress;Learning+Web+Development;Building+Real+Projects;Exploring+Modern+Technologies;Working+Towards+Full-Stack+Development" alt="Typing animation" />
 
 <br/>
 
@@ -20,19 +20,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Developer in Progress** focused on continuously improving my skills in **Web Development and Full-Stack Development**.
+I'm a **Developer in Progress** focused on continuously improving my skills in **Web Development**.
 
 I enjoy understanding how technologies work together, experimenting with new concepts and turning what I learn into practical projects.
 
-My current journey is focused on **programming fundamentals, modern web development, databases, APIs, development tools, infrastructure and AI-assisted development workflows**.
+My current journey is focused on **programming fundamentals, web development, databases, development tools, infrastructure and AI-assisted development workflows**.
 
-I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, React, Next.js, PHP, MySQL, Supabase and Docker**, while also exploring modern development tools and **Vibe Coding** with tools such as **V0, Codex and Higgsfield**.
+I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, PHP, React, Next.js, MySQL, Supabase and Docker**, while also exploring **Vibe Coding** with tools such as **V0, Codex and Higgsfield**.
 
-I've been building projects ranging from responsive websites and interactive front-end experiences to **financial systems, business applications, APIs and real-world software solutions**.
+I've also been exploring projects involving **financial systems, Open Finance concepts, business management and real-world ordering systems**, building practical solutions based on real use cases.
 
-Some of my projects explore areas such as **financial management, Open Finance, digital ordering systems and business-oriented applications**.
-
-My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, scalable and maintainable software solutions.
+My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, useful and maintainable software solutions.
 
 > 🚀 **Learn deeply. Build consistently. Keep improving.**
 
@@ -43,10 +41,10 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🎨 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React` · `Next.js`
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Next.js`
 
 ---
 
@@ -140,97 +138,49 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 I'm continuously building and publishing projects as part of my development journey.
 
+---
+
+## 🍽️ Pastelaria Ordering System
+
 <div align="center">
 
-<table>
+<a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
 
+<img src="./pastelaria-1.jpg" width="90%" alt="Pastelaria Ordering System - Digital Menu">
+
+</a>
+
+<br/><br/>
+
+<table>
 <tr>
 
 <td width="50%" align="center">
 
-<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
-
-<img src="./a2b18466-b681-4bef-881d-068c57a08990.png" width="100%" alt="Sistema de Controle de Gastos">
-
-</a>
-
-### 💳 Sistema de Controle de Gastos
-
-A web-based system developed as an initial version for **controlling expenses made with a corporate credit card**.
-
-The project allows users to register and organize expenses using information such as **description, category, amount and date**, while displaying the card's monthly limit, total expenses and available balance.
-
-The project is also part of my studies in **PHP, TypeScript, MySQL and Docker**.
-
-**Tech:** `HTML5` `CSS3` `TypeScript` `PHP` `MySQL` `Docker`
-
-<br/>
-
-<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
+<img src="./pastelaria-2.jpg" width="100%" alt="Pastelaria Ordering System - Customer Ordering Flow">
 
 </td>
 
 <td width="50%" align="center">
 
-<a href="https://bryanfurquim.github.io/financepro/">
-
-<img src="./image.png" width="100%" alt="FinancePro">
-
-</a>
-
-### 💰 FinancePro
-
-A financial control and organization website created to experiment with **JavaScript and AI-assisted development**.
-
-The project includes financial organization features and interactive elements designed to make personal finance management easier.
-
-**Tech:** `HTML5` `CSS3` `JavaScript`
-
-<br/>
-
-<a href="https://github.com/BryanFurquim/financepro">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
- 
-
-<a href="https://bryanfurquim.github.io/financepro/">
-
-<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
-
-</a>
+<img src="./pastelaria-3.jpg" width="100%" alt="Pastelaria Ordering System - Admin Dashboard">
 
 </td>
 
 </tr>
+</table>
 
-<tr>
+</div>
 
-<td width="50%" align="center">
+A complete **online ordering system designed for a pastelaria**, focused on creating a practical and modern digital ordering experience.
 
-<a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
+Customers can access the system through a **QR Code**, browse the digital menu, select products and place their orders directly through the interface.
 
-<img src="./pastelaria.png" width="100%" alt="Pastelaria Ordering System">
+The project also includes a separate **owner/admin area**, allowing the business to manage incoming orders and monitor the operation.
 
-</a>
+The system was developed with a focus on **real-world usability, responsive design and scalable architecture**, using **Supabase** for the database and **Vercel** for deployment.
 
-### 🥟 Pastelaria Ordering System with admin interface
-
-A digital ordering system designed for a **real-world food business**.
-
-The system provides a **mobile-friendly digital menu accessed through a QR code**, allowing customers to browse products and place orders directly from their smartphones.
-
-Orders are designed to be received through a separate **management interface**, creating a practical workflow between customers and the business.
-
-The project combines **modern web development, database integration, deployment and real-world business requirements**.
-
-**Tech:** `React` `JavaScript` `Supabase` `Vercel`
+**Tech:** `React` `JavaScript` `Supabase` `Vercel` `HTML5` `CSS3`
 
 <br/>
 
@@ -248,17 +198,93 @@ The project combines **modern web development, database integration, deployment 
 
 </a>
 
-</td>
+---
 
-<td width="50%" align="center">
+## 💳 Sistema de Controle de Gastos
 
-<a href="https://bryanfurquim.github.io/projeto-fanta/">
+<div align="center">
 
-<img src="./projeto-fanta.jpg" width="100%" alt="Fanta Project">
+<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
+
+<img src="./a2b18466-b681-4bef-881d-068c57a08990.png" width="75%" alt="Sistema de Controle de Gastos">
 
 </a>
 
-### 🥤 Fanta Project
+</div>
+
+A web-based system developed as an initial version for **controlling expenses made with a corporate credit card**.
+
+The project allows users to register and organize expenses using information such as **description, category, amount and date**, while displaying the card's monthly limit, total expenses and available balance.
+
+The project is also part of my studies in **PHP, TypeScript, MySQL and Docker**.
+
+**Tech:** `HTML5` `CSS3` `TypeScript` `PHP` `MySQL` `Docker`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</div>
+
+---
+
+## 💰 FinancePro
+
+<div align="center">
+
+<a href="https://bryanfurquim.github.io/financepro/">
+
+<img src="./image.png" width="75%" alt="FinancePro">
+
+</a>
+
+</div>
+
+A financial control and organization website created to experiment with **JavaScript and AI-assisted development**.
+
+The project includes financial organization features and interactive elements designed to make personal finance management easier.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/BryanFurquim/financepro">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+ 
+
+<a href="https://bryanfurquim.github.io/financepro/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</div>
+
+---
+
+## 🥤 Fanta Project
+
+<div align="center">
+
+<a href="https://bryanfurquim.github.io/projeto-fanta/">
+
+<img src="./projeto-fanta.jpg" width="75%" alt="Fanta Project">
+
+</a>
+
+</div>
 
 A front-end project created to practice **JavaScript animations, interactions and visual effects**.
 
@@ -267,6 +293,8 @@ The main goal of the project was to experiment with animations and create a more
 **Tech:** `HTML5` `CSS3` `JavaScript`
 
 <br/>
+
+<div align="center">
 
 <a href="https://github.com/BryanFurquim/projeto-fanta">
 
@@ -282,29 +310,29 @@ The main goal of the project was to experiment with animations and create a more
 
 </a>
 
-</td>
+</div>
 
-</tr>
+---
 
-<tr>
+## 🔐 Responsive Login
 
-<td width="50%" align="center">
+<div align="center">
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
-<img src="./projeto-login.jpeg" width="100%" alt="Responsive Login">
+<img src="./projeto-login.jpeg" width="75%" alt="Responsive Login">
 
 </a>
 
-### 🔐 Responsive Login
+</div>
 
 A responsive login interface created to practice **HTML5, CSS3 and responsive layouts** across different screen sizes.
-
-The project focuses on responsive design, Flexbox and adapting interfaces to different devices.
 
 **Tech:** `HTML5` `CSS3`
 
 <br/>
+
+<div align="center">
 
 <a href="https://github.com/BryanFurquim/projeto-login">
 
@@ -320,20 +348,143 @@ The project focuses on responsive design, Flexbox and adapting interfaces to dif
 
 </a>
 
-</td>
+</div>
 
-<td width="50%" align="center">
+---
+
+## 🤖 Android Website
+
+<div align="center">
 
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
-<img src="./projeto-android.jpeg" width="100%" alt="Android Website">
+<img src="./projeto-android.jpeg" width="75%" alt="Android Website">
 
 </a>
 
-### 🤖 Android Website
+</div>
 
 A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing on structure, content organization, images, links and visual styling.
 
 **Tech:** `HTML5` `CSS3`
 
-<br/
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/BryanFurquim/projeto-android">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+ 
+
+<a href="https://bryanfurquim.github.io/projeto-android/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</div>
+
+---
+
+## 📱 Social Media — Iframe Practice
+
+<div align="center">
+
+<a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
+
+<img src="./redes-sociais.jpg" width="75%" alt="Social Media Project">
+
+</a>
+
+</div>
+
+An educational project created to practice **HTML5 iframes, navigation, target links and interaction between multiple HTML documents**.
+
+This project was developed as part of my studies based on **Curso em Vídeo by Gustavo Guanabara**.
+
+**Tech:** `HTML5` `CSS3`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/BryanFurquim/projeto-redes-sociais">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+ 
+
+<a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=googlechrome&logoColor=black">
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/BryanFurquim/reactjs">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Learning Focus
+
+<div align="center">
+
+| Area                     | Focus                                             |
+| :----------------------- | :------------------------------------------------ |
+| 🌐 **Web Development**   | HTML5 · CSS3 · JavaScript                         |
+| ⚛️ **Front-End**         | JavaScript · TypeScript · React · Next.js         |
+| ⚙️ **Back-End**          | JavaScript · TypeScript · PHP                     |
+| 🗄️ **Database**         | MySQL · Supabase                                  |
+| 🐳 **Infrastructure**    | Docker                                            |
+| 🔧 **Version Control**   | Git · GitHub                                      |
+| 🗄️ **Database Tools**   | Beekeeper Studio                                  |
+| 🎨 **Design**            | GIMP                                              |
+| 🤖 **Vibe Coding**       | Developing simple and functional websites with AI |
+| 💻 **Operating Systems** | Windows · Linux                                   |
+
+</div>
+
+I'm continuously expanding my knowledge through **study, experimentation, Vibe Coding and practical projects**.
+
+---
+
+# 📈 My Development Philosophy
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Make mistakes
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Repeat
+```
+
+<div align="center">
+
+### 🚀 Always Learning. Always Building.
+
+</div>
