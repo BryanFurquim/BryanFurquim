@@ -41,10 +41,20 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 ## 🎨 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript` · `React` · `Next.js`
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript`
+
+---
+
+## 🧩 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+`React` · `Next.js`
 
 ---
 
@@ -184,6 +194,8 @@ The system was developed with a focus on **real-world usability, responsive desi
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
 
 <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -197,6 +209,8 @@ The system was developed with a focus on **real-world usability, responsive desi
 <img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=vercel&logoColor=black">
 
 </a>
+
+</div>
 
 ---
 
@@ -429,62 +443,3 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 </div>
 
 ---
-
-<div align="center">
-
-<a href="https://github.com/BryanFurquim/reactjs">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</div>
-
----
-
-# 🎯 Current Learning Focus
-
-<div align="center">
-
-| Area                     | Focus                                             |
-| :----------------------- | :------------------------------------------------ |
-| 🌐 **Web Development**   | HTML5 · CSS3 · JavaScript                         |
-| ⚛️ **Front-End**         | JavaScript · TypeScript · React · Next.js         |
-| ⚙️ **Back-End**          | JavaScript · TypeScript · PHP                     |
-| 🗄️ **Database**         | MySQL · Supabase                                  |
-| 🐳 **Infrastructure**    | Docker                                            |
-| 🔧 **Version Control**   | Git · GitHub                                      |
-| 🗄️ **Database Tools**   | Beekeeper Studio                                  |
-| 🎨 **Design**            | GIMP                                              |
-| 🤖 **Vibe Coding**       | Developing simple and functional websites with AI |
-| 💻 **Operating Systems** | Windows · Linux                                   |
-
-</div>
-
-I'm continuously expanding my knowledge through **study, experimentation, Vibe Coding and practical projects**.
-
----
-
-# 📈 My Development Philosophy
-
-```text
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Make mistakes
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Repeat
-```
-
-<div align="center">
-
-### 🚀 Always Learning. Always Building.
-
-</div>
