@@ -38,109 +38,131 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 # 🛠️ Tech Stack
 
-## 🎨 Front-End
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎨 Front-End
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+<br/>
 
 `HTML5` · `CSS3` · `JavaScript` · `TypeScript`
 
----
+</td>
 
-## 🧩 Frameworks & Libraries
+<td width="50%" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+### 🧩 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+<br/>
 
 `React` · `Next.js`
 
----
+</td>
 
-## ⚙️ Back-End
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php" />
-</p>
+<tr>
+
+<td width="50%" align="center">
+
+### ⚙️ Back-End
+
+<img src="https://skillicons.dev/icons?i=js,ts,php" />
+
+<br/>
 
 `JavaScript` · `TypeScript` · `PHP`
 
----
+</td>
 
-## 🗄️ Database
+<td width="50%" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
-</p>
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+
+<br/>
 
 `MySQL` · `Supabase`
 
----
+</td>
 
-## 🐳 Development & Infrastructure
+</tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
+<tr>
 
-`Docker`
+<td width="50%" align="center">
 
----
+### 🐳 Development & Tools
 
-## 🔧 Version Control
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+<img src="./beekeeper.png" width="48" height="48" alt="Beekeeper Studio" />
 
-`Git` · `GitHub`
+<br/>
 
----
+`Docker` · `Git` · `GitHub` · `Beekeeper Studio`
 
-## 🗄️ Database Tools
+</td>
 
-<p>
-  <img src="./beekeeper.png" width="48" height="48" alt="Beekeeper Studio" />
-</p>
+<td width="50%" align="center">
 
-`Beekeeper Studio`
+### 🎨 Design
 
----
+<img src="./gimp.png" width="48" height="48" alt="GIMP" />
 
-## 🎨 Design & Image Editing
-
-<p>
-  <img src="./gimp.png" width="48" height="48" alt="GIMP" />
-</p>
+<br/>
 
 `GIMP`
 
----
+</td>
 
-## 🤖 Vibe Coding & AI Tools
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge&logoColor=white" />
-</p>
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 AI & Vibe Coding
+
+<img src="https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge&logoColor=white" />
+
+<br/>
 
 `V0` · `Codex` · `Higgsfield`
 
-> 🧠 Exploring **Vibe Coding** to develop **simple, functional and modern websites with the help of AI**, turning ideas into working interfaces and practical projects.
+</td>
 
----
+<td width="50%" align="center">
 
-## 💻 Operating Systems
+### 💻 Operating Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
+<br/>
 
 `Windows` · `Linux`
 
-> 📚 This stack represents technologies and tools I'm currently learning, practicing or using throughout my development journey.
+</td>
+
+</tr>
+</table>
+
+</div>
+
+> 📚 Technologies and tools I'm currently learning, practicing or using throughout my development journey.
 
 ---
 
@@ -192,7 +214,7 @@ The project also includes a separate **owner/admin area**, allowing the business
 
 The system was developed with a focus on **real-world usability, responsive design and scalable architecture**, using **Supabase** for the database and **Vercel** for deployment.
 
-**Tech:** `React` `JavaScript` `Supabase` `Vercel` `HTML5` `CSS3`
+**Tech:** `React` `JavaScript` `Supabase`  `HTML5` `CSS3`
 
 <br/>
 
