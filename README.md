@@ -187,7 +187,8 @@ A complete **online ordering system designed for a pastelaria**, focused on crea
 Customers can access the system through a **QR Code**, browse the digital menu, select products and place their orders directly through the interface.
 
 The project also includes a separate **owner/admin area**, allowing the business to manage incoming orders and monitor the operation.
-Area Admin: /admin
+
+- Area Admin: /admin
 
 The system was developed with a focus on **real-world usability, responsive design and scalable architecture**, using **Supabase** for the database and **Vercel** for deployment.
 
