@@ -206,11 +206,6 @@ A complete **online ordering system for a pastelaria**, featuring a QR Code digi
 
 </a>
 
- 
-
-<a href="https://sistema-de-pastelaria.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=vercel&logoColor=black">
 
 </a>
 
