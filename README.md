@@ -166,7 +166,7 @@ I'm continuously building and publishing projects as part of my development jour
 
 <a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
 
-<img src="./pastelaria-1.jpg" width="90%" alt="Pastelaria Ordering System - Digital Menu">
+<img src="./pastelaria-1.jpg" width="10%" alt="Pastelaria Ordering System - Digital Menu">
 
 </a>
 
@@ -184,6 +184,16 @@ I'm continuously building and publishing projects as part of my development jour
 <td width="50%">
 
 <img src="./pastelaria-3.jpg" width="100%" alt="Admin Dashboard">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img src="./pastelaria-4.jpg" width="100%" alt="Pastelaria Ordering System">
 
 </td>
 
