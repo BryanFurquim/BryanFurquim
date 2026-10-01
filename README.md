@@ -44,7 +44,7 @@ I enjoy turning ideas into **practical, real-world projects** and continuously i
 
 <td width="25%" align="center">
 
-### 🧩 Frameworks
+### 🧩 Frameworks & libs
 
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 
