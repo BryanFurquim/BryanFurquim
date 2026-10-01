@@ -31,92 +31,66 @@ I enjoy turning ideas into **practical, real-world projects** and continuously i
 <div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🎨 Front-End
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
-<br/>
-
-
-
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### 🧩 Frameworks & Libraries
+### 🧩 Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 
-<br/>
-
-
-
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### ⚙️ Back-End
 
 <img src="https://skillicons.dev/icons?i=js,ts,php" />
 
-<br/>
-
-
-
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 
-<br/>
-
-
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### 🐳 Development & Tools
+### 🐳 Development
 
 <img src="https://skillicons.dev/icons?i=docker,git,github" />
 
-<img src="./beekeeper.png" width="48" height="48" alt="Beekeeper Studio" />
-
 <br/>
+
+<img src="./beekeeper.png" width="40" height="40" alt="Beekeeper Studio" />
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🎨 Design
 
-<img src="./gimp.png" width="48" height="48" alt="GIMP" />
-
-<br/>
-
-
+<img src="./gimp.png" width="40" height="40" alt="GIMP" />
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### 🤖 AI & Vibe Coding
 
@@ -124,28 +98,24 @@ I enjoy turning ideas into **practical, real-world projects** and continuously i
 
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white" />
-
 <br/>
+
+<img src="https://img.shields.io/badge/ClaudeCode-000000?style=for-the-badge&logoColor=white" />
 
 
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### 💻 Operating Systems
+### 💻 OS
 
 <img src="https://skillicons.dev/icons?i=windows,linux" />
-
-<br/>
-
-
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
