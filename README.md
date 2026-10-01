@@ -17,23 +17,13 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
-I'm a **Developer in Progress** focused on continuously improving my skills in **Web Development**.
+I'm a **Developer in Progress** focused on **Web Development and Full-Stack development**.
 
-I enjoy understanding how technologies work together, experimenting with new concepts and turning what I learn into practical projects.
+Currently learning and practicing **JavaScript, TypeScript, React, Next.js, PHP, MySQL, Supabase and Docker**, while exploring modern development tools and **AI-assisted workflows**.
 
-My current journey is focused on **programming fundamentals, web development, databases, development tools, infrastructure and AI-assisted development workflows**.
-
-I'm currently learning and practicing technologies such as **HTML, CSS, JavaScript, TypeScript, PHP, React, Next.js, MySQL, Supabase and Docker**, while also exploring **Vibe Coding** with tools such as **V0, Codex and Higgsfield**.
-
-I've also been exploring projects involving **financial systems, Open Finance concepts, business management and real-world ordering systems**, building practical solutions based on real use cases.
-
-My long-term goal is to keep learning, deepen my technical knowledge and become a **strong and well-rounded Full-Stack Developer** capable of building complete, useful and maintainable software solutions.
-
-> 🚀 **Learn deeply. Build consistently. Keep improving.**
-
+I enjoy turning ideas into **practical, real-world projects** and continuously improving my technical skills through hands-on development.
 ---
 
 # 🛠️ Tech Stack
@@ -170,7 +160,7 @@ I'm continuously building and publishing projects as part of my development jour
 
 ---
 
-## 🍽️ Pastelaria Ordering System
+## 🍽️ Mobile-focused ordering system for a pastelaria
 
 <div align="center">
 
@@ -185,15 +175,15 @@ I'm continuously building and publishing projects as part of my development jour
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="./pastelaria-2.jpg" width="100%" alt="Pastelaria Ordering System - Customer Ordering Flow">
+<img src="./pastelaria-2.jpg" width="100%" alt="Customer Ordering Flow">
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
-<img src="./pastelaria-3.jpg" width="100%" alt="Pastelaria Ordering System - Admin Dashboard">
+<img src="./pastelaria-3.jpg" width="100%" alt="Admin Dashboard">
 
 </td>
 
@@ -202,19 +192,11 @@ I'm continuously building and publishing projects as part of my development jour
 
 </div>
 
-A complete **online ordering system designed for a pastelaria**, focused on creating a practical and modern digital ordering experience.
+A complete **online ordering system for a pastelaria**, featuring a QR Code digital menu, customer ordering flow and a separate admin area for managing orders.
 
-Customers can access the system through a **QR Code**, browse the digital menu, select products and place their orders directly through the interface.
+**Admin Area:** `/admin`
 
-The project also includes a separate **owner/admin area**, allowing the business to manage incoming orders and monitor the operation.
-
-- Admin area : /admin
-
-The system was developed with a focus on **real-world usability, responsive design and scalable architecture**, using **Supabase** for the database and **Vercel** for deployment.
-
-**Tech:** `React` `JavaScript` `Supabase`  `HTML5` `CSS3` `Nextjs`
-
-<br/>
+**Tech:** `React` `JavaScript` `Supabase` `HTML5` `CSS3`
 
 <div align="center">
 
@@ -236,30 +218,51 @@ The system was developed with a focus on **real-world usability, responsive desi
 
 ---
 
-
----
-
-## 💰 FinancePro
-
 <div align="center">
 
-<a href="https://bryanfurquim.github.io/financepro/">
+<table>
 
-<img src="./image.png" width="75%" alt="FinancePro">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+## 💳 Sistema de Controle de Gastos
+
+<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
+
+<img src="./a2b18466-b681-4bef-881d-068c57a08990.png" width="100%" alt="Sistema de Controle de Gastos">
 
 </a>
 
-</div>
+A web-based system for **organizing corporate credit card expenses**, including categories, amounts, dates, monthly limits and available balance.
 
-A financial control and organization website created to experiment with **JavaScript and AI-assisted development**.
+**Tech:** `PHP` `TypeScript` `MySQL` `Docker`
 
-The project includes financial organization features and interactive elements designed to make personal finance management easier.
+<br/>
+
+<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+## 💰 FinancePro
+
+<a href="https://bryanfurquim.github.io/financepro/">
+
+<img src="./image.png" width="100%" alt="FinancePro">
+
+</a>
+
+A financial control website created to practice **JavaScript and interactive interfaces**.
 
 **Tech:** `HTML5` `CSS3` `JavaScript`
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/BryanFurquim/financepro">
 
@@ -275,31 +278,27 @@ The project includes financial organization features and interactive elements de
 
 </a>
 
-</div>
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
 
 ## 🥤 Fanta Project
 
-<div align="center">
-
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
-<img src="./projeto-fanta.jpg" width="75%" alt="Fanta Project">
+<img src="./projeto-fanta.jpg" width="100%" alt="Fanta Project">
 
 </a>
 
-</div>
-
-A front-end project created to practice **JavaScript animations, interactions and visual effects**.
-
-The main goal of the project was to experiment with animations and create a more dynamic user experience.
+A front-end project focused on **JavaScript animations, interactions and visual effects**.
 
 **Tech:** `HTML5` `CSS3` `JavaScript`
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/BryanFurquim/projeto-fanta">
 
@@ -315,29 +314,23 @@ The main goal of the project was to experiment with animations and create a more
 
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top" align="center">
 
 ## 🔐 Responsive Login
 
-<div align="center">
-
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
-<img src="./projeto-login.jpeg" width="75%" alt="Responsive Login">
+<img src="./projeto-login.jpeg" width="100%" alt="Responsive Login">
 
 </a>
 
-</div>
-
-A responsive login interface created to practice **HTML5, CSS3 and responsive layouts** across different screen sizes.
+A responsive login interface created to practice **HTML5, CSS3 and responsive layouts**.
 
 **Tech:** `HTML5` `CSS3`
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/BryanFurquim/projeto-login">
 
@@ -353,29 +346,27 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 </a>
 
-</div>
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
 
 ## 🤖 Android Website
 
-<div align="center">
-
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
-<img src="./projeto-android.jpeg" width="75%" alt="Android Website">
+<img src="./projeto-android.jpeg" width="100%" alt="Android Website">
 
 </a>
 
-</div>
-
-A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing on structure, content organization, images, links and visual styling.
+A website developed to strengthen **HTML5 and CSS3 fundamentals**, focusing on structure, content and visual styling.
 
 **Tech:** `HTML5` `CSS3`
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/BryanFurquim/projeto-android">
 
@@ -391,31 +382,23 @@ A website developed to strengthen my **HTML5 and CSS3 fundamentals**, focusing o
 
 </a>
 
-</div>
+</td>
 
----
+<td width="50%" valign="top" align="center">
 
-## 📱 Social Media — Iframe Practice
-
-<div align="center">
+## 📱 Social Media
 
 <a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
 
-<img src="./redes-sociais.jpg" width="75%" alt="Social Media Project">
+<img src="./redes-sociais.jpg" width="100%" alt="Social Media Project">
 
 </a>
 
-</div>
-
-An educational project created to practice **HTML5 iframes, navigation, target links and interaction between multiple HTML documents**.
-
-This project was developed as part of my studies based on **Curso em Vídeo by Gustavo Guanabara**.
+An educational project focused on **HTML5 iframes, navigation and interaction between documents**.
 
 **Tech:** `HTML5` `CSS3`
 
 <br/>
-
-<div align="center">
 
 <a href="https://github.com/BryanFurquim/projeto-redes-sociais">
 
@@ -431,6 +414,15 @@ This project was developed as part of my studies based on **Curso em Vídeo by G
 
 </a>
 
-</div>
+</td>
 
----
+</tr>
+
+</table>
+
+</div>
+<div align="center">
+
+🚀 Always Learning. Always Building.
+
+</div>
