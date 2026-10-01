@@ -51,7 +51,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript`
+
 
 </td>
 
@@ -63,7 +63,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`React` · `Next.js`
+
 
 </td>
 
@@ -79,7 +79,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`JavaScript` · `TypeScript` · `PHP`
+
 
 </td>
 
@@ -91,7 +91,6 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`MySQL` · `Supabase`
 
 </td>
 
@@ -109,8 +108,6 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`Docker` · `Git` · `GitHub` · `Beekeeper Studio`
-
 </td>
 
 <td width="50%" align="center">
@@ -121,7 +118,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`GIMP`
+
 
 </td>
 
@@ -137,11 +134,12 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Higgsfield-111111?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white" />
 
 <br/>
 
-`V0` · `Codex` · `Higgsfield`
+
 
 </td>
 
@@ -153,7 +151,7 @@ My long-term goal is to keep learning, deepen my technical knowledge and become 
 
 <br/>
 
-`Windows` · `Linux`
+
 
 </td>
 
@@ -210,11 +208,11 @@ Customers can access the system through a **QR Code**, browse the digital menu, 
 
 The project also includes a separate **owner/admin area**, allowing the business to manage incoming orders and monitor the operation.
 
-- Area Admin: /admin
+- Admin area : /admin
 
 The system was developed with a focus on **real-world usability, responsive design and scalable architecture**, using **Supabase** for the database and **Vercel** for deployment.
 
-**Tech:** `React` `JavaScript` `Supabase`  `HTML5` `CSS3`
+**Tech:** `React` `JavaScript` `Supabase`  `HTML5` `CSS3` `Nextjs`
 
 <br/>
 
@@ -238,37 +236,6 @@ The system was developed with a focus on **real-world usability, responsive desi
 
 ---
 
-## 💳 Sistema de Controle de Gastos
-
-<div align="center">
-
-<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
-
-<img src="./a2b18466-b681-4bef-881d-068c57a08990.png" width="75%" alt="Sistema de Controle de Gastos">
-
-</a>
-
-</div>
-
-A web-based system developed as an initial version for **controlling expenses made with a corporate credit card**.
-
-The project allows users to register and organize expenses using information such as **description, category, amount and date**, while displaying the card's monthly limit, total expenses and available balance.
-
-The project is also part of my studies in **PHP, TypeScript, MySQL and Docker**.
-
-**Tech:** `HTML5` `CSS3` `TypeScript` `PHP` `MySQL` `Docker`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/BryanFurquim/sistema-de-controle-de-gastos">
-
-<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</div>
 
 ---
 
