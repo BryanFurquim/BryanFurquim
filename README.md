@@ -166,14 +166,20 @@ I'm continuously building and publishing projects as part of my development jour
 
 <a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
 
-<img src="./pastelaria-1.jpg" width="10%" alt="Pastelaria Ordering System - Digital Menu">
 
 </a>
 
 <br/><br/>
+<div align="center">
 
 <table>
 <tr>
+
+<td width="50%">
+
+<img src="./pastelaria-1.jpg" width="100%" alt="Pastelaria Ordering System - Digital Menu">
+
+</td>
 
 <td width="50%">
 
@@ -181,15 +187,15 @@ I'm continuously building and publishing projects as part of my development jour
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 <img src="./pastelaria-3.jpg" width="100%" alt="Admin Dashboard">
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -202,11 +208,13 @@ I'm continuously building and publishing projects as part of my development jour
 
 </div>
 
+</div>
+
 A complete **online ordering system for a pastelaria**, featuring a QR Code digital menu, customer ordering flow and a separate admin area for managing orders.
 
 **Admin Area:** `/admin`
 
-**Tech:** `React` `JavaScript` `Supabase` `HTML5` `CSS3`
+**Tech:** `React` `JavaScript` `Supabase` `HTML5` `CSS3` `Nextjs`
 
 <div align="center">
 
