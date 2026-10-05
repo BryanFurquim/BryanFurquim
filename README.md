@@ -136,12 +136,6 @@ I'm continuously building and publishing projects as part of my development jour
 
 <a href="https://github.com/BryanFurquim/site-sistema-de-pastelaria">
 
-
-</a>
-
-<br/><br/>
-<div align="center">
-
 <table>
 <tr>
 
@@ -176,7 +170,7 @@ I'm continuously building and publishing projects as part of my development jour
 </tr>
 </table>
 
-</div>
+</a>
 
 </div>
 
@@ -184,7 +178,7 @@ A complete **online ordering system for a pastelaria**, featuring a QR Code digi
 
 **Admin Area:** `/admin`
 
-**Tech:** `React` `JavaScript` `Supabase` `HTML5` `CSS3` `Nextjs`
+**Tech:** `React` `JavaScript` `Supabase` `HTML5` `CSS3` `Next.js`
 
 <div align="center">
 
@@ -194,6 +188,52 @@ A complete **online ordering system for a pastelaria**, featuring a QR Code digi
 
 </a>
 
+</div>
+
+---
+
+## ⚡ PokeNext
+
+<div align="center">
+
+<a href="https://pokenext-ten-rho.vercel.app/">
+
+<img src="./pokenext.png" width="100%" alt="PokeNext">
+
+</a>
+
+</div>
+
+A Pokémon explorer application built with **Next.js and TypeScript**, consuming data from the **PokéAPI**.
+
+The project was developed to practice the modern **Next.js App Router**, dynamic routes, API consumption, TypeScript typing, static generation and server-side data fetching.
+
+### ✨ Features
+
+- 🔎 Pokémon exploration
+- 🧬 Pokémon types
+- 📏 Height and weight information
+- 🖼️ Pokémon images
+- 🔌 PokéAPI integration
+- 🧭 Dynamic routes using `[id]`
+- ⚡ Static generation with `generateStaticParams`
+- 🚀 Dynamic parameters with `dynamicParams`
+- 📱 Responsive interface
+- 🔢 Pokémon pages accessible directly through their ID
+
+**Tech:** `Next.js` `React` `TypeScript` `CSS Modules` `PokéAPI`
+
+<div align="center">
+
+<a href="https://pokenext-ten-rho.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-66E3C4?style=for-the-badge&logo=vercel&logoColor=black">
+
+</a>
+
+<a href="https://github.com/BryanFurquim/pokenext">
+
+<img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
@@ -253,7 +293,7 @@ A financial control website created to practice **JavaScript and interactive int
 
 </a>
 
- 
+<br/>
 
 <a href="https://bryanfurquim.github.io/financepro/">
 
@@ -289,7 +329,7 @@ A front-end project focused on **JavaScript animations, interactions and visual 
 
 </a>
 
- 
+<br/>
 
 <a href="https://bryanfurquim.github.io/projeto-fanta/">
 
@@ -321,7 +361,7 @@ A responsive login interface created to practice **HTML5, CSS3 and responsive la
 
 </a>
 
- 
+<br/>
 
 <a href="https://bryanfurquim.github.io/projeto-login/">
 
@@ -357,7 +397,7 @@ A website developed to strengthen **HTML5 and CSS3 fundamentals**, focusing on s
 
 </a>
 
- 
+<br/>
 
 <a href="https://bryanfurquim.github.io/projeto-android/">
 
@@ -389,7 +429,7 @@ An educational project focused on **HTML5 iframes, navigation and interaction be
 
 </a>
 
- 
+<br/>
 
 <a href="https://bryanfurquim.github.io/projeto-redes-sociais/">
 
@@ -404,6 +444,9 @@ An educational project focused on **HTML5 iframes, navigation and interaction be
 </table>
 
 </div>
+
+---
+
 <div align="center">
 
 🚀 Always Learning. Always Building.
