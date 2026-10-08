@@ -92,7 +92,7 @@ I enjoy turning ideas into **practical, real-world projects** and continuously i
 
 <td width="25%" align="center">
 
-### 🤖 AI & Vibe Coding
+### 🤖 VibeCoding & AI's
 
 <img src="https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
@@ -108,7 +108,7 @@ I enjoy turning ideas into **practical, real-world projects** and continuously i
 
 <td width="25%" align="center">
 
-### 💻 OS
+### 💻 O.S
 
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
